@@ -7,7 +7,7 @@ MODFLOW-2005 model files for the Heretaunga Plains aquifer system with multiple 
 ## Structure
 
 - `hpm_ext/` - Base historical model (1980-2015, 35 years)
-- `scenarios/mult_1/` - Baseline scenario (100% abstraction, 1980-2035, 55 years)
+- `scenarios/mult_1/` - Baseline (100% of Jul 2005-Jun 2015 abstraction, repeated twice for 2015-2035)
 - `scenarios/mult_0.9/` - 10% reduction (90% abstraction, 1980-2035, 55 years)
 - `scenarios/mult_0.8/` - 20% reduction (80% abstraction, 1980-2035, 55 years)
 - `scenarios/mult_0.7/` - 30% reduction (70% abstraction, 1980-2035, 55 years)
